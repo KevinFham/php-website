@@ -16,7 +16,7 @@ Binaries
 - PHP FastCGI to allow php to be run from the web
 
 ```sh
-sudo apt install nginx php-fpm    
+sudo apt install nginx php8.4-fpm    
 ```
 
 ### Extra
